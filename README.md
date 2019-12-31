@@ -4,7 +4,7 @@ Done to better understand state management in react using context API and hooks.
 
 See it live: https://ghousemohamed.github.io/github-finder/
 
-If the above link is broken. You can clone this repository and run 'npm start' to start this application on hhtp://localhost:3000
+If the above link is broken. You can clone this repository and run 'npm start' to start this application on http://localhost:3000
 
 This project's main objective was to build a stronger foundation in 'state management'. This project more specifically 
 tackles context API and hooks. 
